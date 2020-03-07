@@ -1,2 +1,2 @@
-# ocp-auto
+# OpenShift Environment Automation
 ocp-auto
