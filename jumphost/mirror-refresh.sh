@@ -21,7 +21,7 @@ SUBVER=`echo "${VERSION:0:3}"`
 #fi
 UPSTREAM_REPO="registry.svc.ci.openshift.org/ocp/release:$VERSION"
 PULLSECRET=/`pwd`/pull-secret.json
-LOCAL_REG='jumphost.rna1.cloud.lab.eng.bos.redhat.com:5000'
+LOCAL_REG='jumphost.schmaustech.com:5000'
 LOCAL_REPO='ocp4/openshift4'
 echo "mirror-refresh : Removing old registry..."
 podman stop registry
