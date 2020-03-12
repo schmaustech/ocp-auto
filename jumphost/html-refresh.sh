@@ -34,7 +34,7 @@ table#t01 th {
 </style>
 </head>
 <body>
-<center><h1>Red Hat Integration Lab Job Completion</h1></center>
+<center><h1>Integration Lab Job Completion</h1></center>
 <table id="t01">
 <tr><th>Completion Date</th><th>Version</th><th>Job State</th><th>Net Type</th><th>CNV</th><th>Pods</th><th>Nodes</th><th>Operators</th><th>Raw Logs</th></tr>
 EOL
